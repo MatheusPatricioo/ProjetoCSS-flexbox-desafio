@@ -23,7 +23,6 @@ Este projeto foi desenvolvido como parte do curso de Front-End da Udemy. É um s
 - Demonstrar habilidades de design e organização de conteúdo para criar uma experiência de usuário agradável.
 
 ## Capturas de Tela
-Inserir capturas de tela ou links para visualização online do projeto.
 
 (img/Monica_2024-02-04_14-27-32.png)
 
