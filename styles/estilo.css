@@ -1,0 +1,17 @@
+html
+body {
+    height: 100%;
+    body {
+    background-image: url('caminho/para/sua/imagem.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat; 
+}
+
+}
+
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
