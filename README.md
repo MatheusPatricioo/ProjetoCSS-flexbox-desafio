@@ -25,7 +25,7 @@ Este projeto foi desenvolvido como parte do curso de Front-End da Udemy. É um s
 ## Capturas de Tela
 Inserir capturas de tela ou links para visualização online do projeto.
 
-[Inserir captura de tela aqui](caminho/para/sua/captura-de-tela.png)
+(img/Monica_2024-02-04_14-27-32.png)
 
 ## Como Executar o Projeto Localmente
 1. Clone o repositório do projeto do GitHub: `git clone https://github.com/seu-usuario/seu-projeto.git`
